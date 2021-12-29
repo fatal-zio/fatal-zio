@@ -1,7 +1,7 @@
 ### Hello there 👋 I'm Jayme.
-### :computer: &nbsp;Connect with me on **[LinkedIn]**
+:computer: &nbsp;Connect with me on **[LinkedIn]**
 
-<h2 align="center" id="zio-tech">Favourite Tech</h2>
+<h2 align="center" id="zio-tech">Favourite Technologies</h2>
 
 <table align="center">
   <tr>

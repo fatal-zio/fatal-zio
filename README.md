@@ -21,7 +21,7 @@
     <td align="center" width="96">
       <a href="#zio-tech">
         <img
-          src="https://www.freeiconspng.com/img/28402"
+          src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png"
           width="48"
           height="48"
           alt="C#"

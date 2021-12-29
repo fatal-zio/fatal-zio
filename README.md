@@ -3,8 +3,6 @@
 
 <h2 align="left" id="zio-tech">Favourite Tech</h2>
 
-> Tools, languages, and other things that I like to work with.
-
 <table align="center">
   <tr>
     <td align="center" width="96">

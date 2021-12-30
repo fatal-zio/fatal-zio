@@ -1,5 +1,6 @@
 ### Hello there 👋 I'm Jayme.
 :computer: &nbsp;Connect with me on **[LinkedIn]**
+:school_satchel: &nbsp;See technology proficiencies at **[Pluralsight]**
 
 <h2 align="center" id="zio-tech">Favourite Technologies</h2>
 
@@ -122,3 +123,4 @@
 </table>
 
 [linkedin]: https://www.linkedin.com/in/jayme-desrosiers-95874390/ "LinkedIn"
+[pluralsight]: https://app.pluralsight.com/profile/jayme-desrosiers "Pluralsight"

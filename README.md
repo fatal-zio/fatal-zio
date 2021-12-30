@@ -1,5 +1,5 @@
 ### Hello there 👋 I'm Jayme.
-:computer: &nbsp;Connect with me on **[LinkedIn]**
+:computer: &nbsp;Connect with me on **[LinkedIn]** <br />
 :school_satchel: &nbsp;See technology proficiencies at **[Pluralsight]**
 
 <h2 align="center" id="zio-tech">Favourite Technologies</h2>

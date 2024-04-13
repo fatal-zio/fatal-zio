@@ -79,12 +79,12 @@
       <a href="#zio-tech">
         <img
           src="https://download.logo.wine/logo/Java_(programming_language)/Java_(programming_language)-Logo.wine.png"
-          width="180"
-          height="120"
-          alt="Java"
+          width="48"
+          height="480"
+          alt="Azure"
         />
       </a>
-      <br />Java
+      <br />Azure
     </td>
     <td align="center" width="96">
       <a href="#zio-tech">

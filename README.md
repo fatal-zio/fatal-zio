@@ -80,7 +80,7 @@
         <img
           src="https://swimburger.net/media/0zcpmk1b/azure.jpg"
           width="48"
-          height="480"
+          height="48"
           alt="Azure"
         />
       </a>

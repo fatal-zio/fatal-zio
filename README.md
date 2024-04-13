@@ -79,8 +79,8 @@
       <a href="#zio-tech">
         <img
           src="https://download.logo.wine/logo/Java_(programming_language)/Java_(programming_language)-Logo.wine.png"
-          width="48"
-          height="48"
+          width="60"
+          height="60"
           alt="Java"
         />
       </a>

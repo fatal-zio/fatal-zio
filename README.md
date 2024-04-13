@@ -78,7 +78,7 @@
     <td align="center" width="96">
       <a href="#zio-tech">
         <img
-          src="https://download.logo.wine/logo/Java_(programming_language)/Java_(programming_language)-Logo.wine.png"
+          src="https://swimburger.net/media/0zcpmk1b/azure.jpg"
           width="48"
           height="480"
           alt="Azure"

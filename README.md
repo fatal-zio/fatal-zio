@@ -78,13 +78,13 @@
     <td align="center" width="96">
       <a href="#zio-tech">
         <img
-          src="https://i.ibb.co/jDGr3z0/azure-removebg-preview.png"
+          src="https://download.logo.wine/logo/Java_(programming_language)/Java_(programming_language)-Logo.wine.png"
           width="48"
           height="48"
-          alt="Azure"
+          alt="Java"
         />
       </a>
-      <br />Azure
+      <br />Java
     </td>
     <td align="center" width="96">
       <a href="#zio-tech">
